@@ -24,6 +24,12 @@ Hey, my name is Hugo Gresse, I'm a french developer, making Open Source projects
 - 💬 Ask me about anything, among others **React**, **Firebase**, **javascript**, **some typescript**, … 
 - [:heart: Sponsor](https://github.com/sponsors/HugoGresse)
 
+## Reach out to me
+
+[![](https://img.shields.io/badge/linkedin-hugogresse-%238888FF)](https://www.linkedin.com/in/hugogresse/)
+[![](https://img.shields.io/badge/twitter-HugoGresse-%238888FF)](https://twitter.com/HugoGresse)
+[![](https://img.shields.io/badge/stackoverflow-hugogresse-%23FF6622)](https://stackoverflow.com/users/1377145/hugo-gresse)
+
 ## My Open Source projects: 
 
 - [Open Feedback](https://openfeedback.io/) is a SaaS for organizer and speakers to gather sessions feedbacks
@@ -33,12 +39,6 @@ Hey, my name is Hugo Gresse, I'm a french developer, making Open Source projects
 - [Name Picker](https://name-picker-2436a.web.app/) make choosing somebody first name easy with advanced letter rules
 - [DoctoRating](https://github.com/HugoGresse/doctorating) browser plugin display Google Maps health workers on doctolib.fr
 
-
-## Reach out to me
-
-[![](https://img.shields.io/badge/linkedin-hugogresse-%238888FF)](https://www.linkedin.com/in/hugogresse/)
-[![](https://img.shields.io/badge/twitter-HugoGresse-%238888FF)](https://twitter.com/HugoGresse)
-[![](https://img.shields.io/badge/stackoverflow-hugo-gresse-%23FF6622)](https://stackoverflow.com/users/1377145/hugo-gresse)
 
 ## Github Stats
 
